@@ -7,6 +7,6 @@
 Запускаємо index.html, вибираємо відповідну точку на карті (з даної точки буде отриманно АРІ з потрібними данними)
 
 # Скрін
-<src="https://github.com/Qwant777/kpplab3/blob/master/screen.png">
+<img src="https://github.com/Qwant777/kpplab3/blob/master/screen.png">
 
 
